@@ -1,6 +1,6 @@
 const React = require("react");
 const ReactDOM = require("react-dom");
-const assign = require("react/lib/Object.assign");
+const assign = require("react/lib/object-assign");
 
 function noop() {}
 
